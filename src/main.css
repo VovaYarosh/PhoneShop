@@ -538,7 +538,14 @@ footer {
     transform: translateY(0px);
 }
 
-.header-top{
+.navigation{
+    margin-bottom: 30px;
+}
+.navigation-items{
+    color: white;
+}
 
+.flexbox{
+    display: flex;
 }
 
