@@ -543,9 +543,13 @@ footer {
 }
 .navigation-items{
     color: white;
+    margin-left: 20px;
+    justify-content: space-between;
 }
 
 .flexbox{
     display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
 }
 
